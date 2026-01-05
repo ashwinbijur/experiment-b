@@ -1,23 +1,23 @@
-EU Banking Technical Assistant — v1 Scope
-Purpose
-A retrieval‑augmented assistant that answers technical questions about European banking regulations using only public documents.
+**EU Banking Technical Assistant — v1 Scope** <br />
+Purpose<br />
+A retrieval‑augmented assistant that answers technical questions about European banking regulations using only public documents.<br />
 
-Documents included in v1
-PSD2 Directive (core articles)
-SEPA Credit Transfer Rulebook (latest version)
-EBA Guidelines on Outsourcing
-ICT Risk
+**Documents included in v1**<br />
+PSD2 Directive (core articles)<br />
+SEPA Credit Transfer Rulebook (latest version)<br />
+EBA Guidelines on Outsourcing<br />
+ICT Risk<br />
 
-Capabilities
-Answer technical questions using RAG
-Provide citations to source documents
-Explain concepts in simple terms
-Compare regulatory requirements in table form
-Summarize sections of documents
+**Capabilities**<br />
+Answer technical questions using RAG<br />
+Provide citations to source documents<br />
+Explain concepts in simple terms<br />
+Compare regulatory requirements in table form<br />
+Summarize sections of documents<br />
 
-Non‑goals for v1
-No fine‑tuning
-No authentication
-No Azure deployment
-No large document set (keep it small for speed)
-No legal advice — informational only
+***Non‑goals for v1**<br />
+No fine‑tuning<br />
+No authentication<br />
+No Azure deployment<br />
+No large document set<br />
+No legal advice — informational only<br />*
